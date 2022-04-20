@@ -15,11 +15,11 @@ Léo da Silva Quallio
   
 • Java com Spring, Jpa e hibernate.
 
+É necessario ter o Docker instalado.
+
 Usuário precisa clonar o projeto com o comando:
 
 GIT CLONE "git@github.com:Analarysa/Emporio-da-cidade.git"
-
-É necessario ter o Docker instalado.
 
 Com o Docker, abra o seu terminal entre em seu leitor de código e navegue até a pasta:
 
