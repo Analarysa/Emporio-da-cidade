@@ -42,6 +42,7 @@ Se seguir todos os passos o projeto é executado com sucesso.
 É preciso ter instaldo o Flutter, para que tudo funcione conforme desejado.
 
 Clone o projeto Flutter com o comando:
+
 GIT CLONE "https://github.com/Analarysa/Emporio-da-cidade"
 
 Abra o leitor de codigo
