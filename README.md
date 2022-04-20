@@ -11,12 +11,9 @@ Léo da Silva Quallio
 
 # TECNOLOGIAS
 
-  BACKEND
+     BACK-END
   
 • Java com Spring, Jpa e hibernate.
-
-
-     BACK-END
 
 Usuário precisa clonar o projeto com o comando:
 
@@ -36,12 +33,9 @@ Se seguir todos os passos o projeto é executado com sucesso.
 
 • Postgres como banco de dados. 
 
-  FRONTEND
+     FRONT-END
 
 • Flutter.
-
-
-     FRONT-END
 
 É preciso ter instalado o Flutter, para que tudo funcione conforme desejado.
 
