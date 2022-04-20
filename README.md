@@ -29,6 +29,7 @@ GIT CLONE "https://github.com/Analarysa/Emporio-da-cidade"
 É necessario ter o Docker instalado.
 
 Com o Docker, abra o seu terminal entre em seu leitor de código e navegue até a pasta:
+
 SRC MAIN DOCKER
 
 Execute o comando:
