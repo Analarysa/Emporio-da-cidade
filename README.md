@@ -12,14 +12,6 @@ Léo da Silva Quallio
 # Tecnologia usada - BACKEND
 • Java com Spring, Jpa e hibernate.
 
-• Postgres como banco de dados. 
-
-# Tecnologia usada - FRONTEND
-• Flutter.
-
-
-# Como Iniciar o projeto 
-
      BACK-END
 
 Usuário precisa clonar o projeto com o comando:
@@ -38,7 +30,12 @@ DOCKER-COMPOSE UP
 
 Se seguir todos os passos o projeto é executado com sucesso.
 
-    FRONT-END
+• Postgres como banco de dados. 
+
+# Tecnologia usada - FRONTEND
+• Flutter.
+
+     FRONT-END
 
 É preciso ter instaldo o Flutter, para que tudo funcione conforme desejado.
 
