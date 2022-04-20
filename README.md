@@ -37,7 +37,7 @@ Se seguir todos os passos o projeto é executado com sucesso.
 
      FRONT-END
 
-É preciso ter instaldo o Flutter, para que tudo funcione conforme desejado.
+É preciso ter instalado o Flutter, para que tudo funcione conforme desejado.
 
 Clone o projeto Flutter com o comando:
 
