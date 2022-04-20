@@ -8,8 +8,10 @@ Ana Larysa Silva Lima
 Daniel Petroni
 
 Léo da Silva Quallio
-  
-# Tecnologia usada - BACKEND
+
+# TECNOLOGIAS
+
+  BACKEND
 • Java com Spring, Jpa e hibernate.
 
      BACK-END
@@ -32,7 +34,7 @@ Se seguir todos os passos o projeto é executado com sucesso.
 
 • Postgres como banco de dados. 
 
-# Tecnologia usada - FRONTEND
+  FRONTEND
 • Flutter.
 
      FRONT-END
