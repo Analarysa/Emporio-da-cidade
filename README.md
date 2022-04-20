@@ -12,7 +12,9 @@ Léo da Silva Quallio
 # TECNOLOGIAS
 
   BACKEND
+  
 • Java com Spring, Jpa e hibernate.
+
 
      BACK-END
 
@@ -35,7 +37,9 @@ Se seguir todos os passos o projeto é executado com sucesso.
 • Postgres como banco de dados. 
 
   FRONTEND
+
 • Flutter.
+
 
      FRONT-END
 
